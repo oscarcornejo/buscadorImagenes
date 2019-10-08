@@ -1,0 +1,5 @@
+.fitImage {
+    object-fit: cover;
+    width: 238px;
+    height: 50%;
+}
